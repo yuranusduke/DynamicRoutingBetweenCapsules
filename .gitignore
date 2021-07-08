@@ -1,0 +1,4 @@
+./data/
+./results/*.pth
+./results/re_imgs/*.png
+/venv/

@@ -1,6 +1,6 @@
 # ***Dynamic Routing Between Capsules***
 
-Implementations of paper <Dynamic Routing Between Capsules> by Sara Sabour, Nicholas Frosst and 
+Implementations of paper ***Dynamic Routing Between Capsules*** by Sara Sabour, Nicholas Frosst and 
 Geoffrey E. Hinton.
 
 Paper addr: http://www.cs.utoronto.ca/~hinton/absps/DynamicRouting.pdf
